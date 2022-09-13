@@ -1,0 +1,3 @@
+C:/Users/rucis/OneDrive/Desktop/UNI/MAGISTRALE/PRIMO ANNO/SECONDO SEMESTRE/PARALLEL PROGRAMING/NGram CLion/cmake-build-debug/CMakeFiles/NGram_CLion.dir
+C:/Users/rucis/OneDrive/Desktop/UNI/MAGISTRALE/PRIMO ANNO/SECONDO SEMESTRE/PARALLEL PROGRAMING/NGram CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rucis/OneDrive/Desktop/UNI/MAGISTRALE/PRIMO ANNO/SECONDO SEMESTRE/PARALLEL PROGRAMING/NGram CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

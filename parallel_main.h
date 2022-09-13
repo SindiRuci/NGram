@@ -1,0 +1,5 @@
+#ifndef NGRAM_CLION_PARALLEL_MAIN_H
+#define NGRAM_CLION_PARALLEL_MAIN_H
+int main_parallel();
+#endif //NGRAM_CLION_PARALLEL_MAIN_H
+

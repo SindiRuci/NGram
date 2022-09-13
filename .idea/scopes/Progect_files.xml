@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Progect files" pattern="file:Testo 1000KB.txt||file:Testo 100KB.txt||file:Testo 100MB.txt||file:Testo 10MB.txt||file:Testo 50KB.txt||file:Testo 50MB.txt" />
+</component>
